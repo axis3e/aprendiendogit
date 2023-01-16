@@ -1,1 +1,3 @@
 Veamos como funciona este asunto (chanchito feliz)
+Estamos entendiendo Git
+Juans
